@@ -1,5 +1,5 @@
 # Development Notice
-I currently do not have plans to further develop this project, however you are free to fork it for your own uses. I have included some of my personal notes and documentation below for reference.
+I currently do not have plans to further develop this project, however you are free to fork it for your own uses. I have included some of my personal notes and documentation below for reference. This repository has been archived as of May 29, 2019.
 
 
 # blockland-joystick
